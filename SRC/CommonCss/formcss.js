@@ -8,7 +8,6 @@ module.exports = {
     },
     formInput: {
         width: '80%',
-        // height: 40,
         backgroundColor: 'white',
         borderRadius: 10,
         marginVertical: 10,
