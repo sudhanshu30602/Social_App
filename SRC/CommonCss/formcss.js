@@ -4,7 +4,7 @@ module.exports = {
         color: 'white',
         textAlign: 'center',
         fontWeight: 'bold',
-        // backgroundColor: 'white',
+      
     },
     formInput: {
         width: '80%',
